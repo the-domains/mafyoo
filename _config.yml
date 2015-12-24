@@ -1,0 +1,14 @@
+layout_spectrum: 0.8602151
+color:
+  saturation: 0.2616487
+  brandStrength: 0.5037452
+  lightness: 0.2777778
+  rhythmicContrast: 0.6756272
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.281362
+name: Mafyoo
