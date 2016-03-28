@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.1684588
 color:
-  saturation: 0.2616487
+  saturation: 0.8225806
   brandStrength: 0
-  lightness: 0.2777778
+  lightness: 0.9713262
   brandColors:
     - '#FFFFFF'
     - '#271F20'
     - '#FF6F64'
     - '#6F6D6E'
     - '#BD656E'
-  rhythmicContrast: 0.6756272
-typography_spectrum: 0.281362
-layout_spectrum: 0.8602151
+  rhythmicContrast: 0.1917563
+layout_spectrum: 0.6021506
 name: Mafyoo
