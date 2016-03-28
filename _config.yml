@@ -1,14 +1,26 @@
-layout_spectrum: 0.8602151
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.2616487
-  brandStrength: 0.5037452
+  brandStrength: 0
   lightness: 0.2777778
-  rhythmicContrast: 0.6756272
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FFFFFF'
+    - '#271F20'
+    - '#FF6F64'
+    - '#6F6D6E'
+    - '#BD656E'
+  rhythmicContrast: 0.6756272
 typography_spectrum: 0.281362
+layout_spectrum: 0.8602151
 name: Mafyoo
